@@ -6,4 +6,4 @@ This is an the repo I used to try to understand how libraries such as TensorFlow
 
 This project doesn't use any external libraries other than numpy to create a basic neural network.
 
-Both `network.py` and `neural_net.py` and individual of each other.
+Both `network.py` and `neural_net.py` are individual of each other.
